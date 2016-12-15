@@ -1,0 +1,8 @@
+"C:\Program Files (x86)\JetBrains\CLion 2016.2.3\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "C:\Users\Asus\ClionProjects\Roslaind\DNA Nucleotides"
+-- Configuring done
+CMake Error at CMakeLists.txt:7 (add_executable):
+  C_STANDARD is set to invalid value '99;-Wall;-pedantic'
+
+
+-- Generating done
+-- Build files have been written to: C:/Users/Asus/ClionProjects/Roslaind/DNA Nucleotides/cmake-build-debug

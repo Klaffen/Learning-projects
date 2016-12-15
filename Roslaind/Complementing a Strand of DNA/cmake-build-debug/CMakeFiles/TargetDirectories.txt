@@ -1,0 +1,3 @@
+C:/Users/Asus/ClionProjects/Roslaind/Complementing a Strand of DNA/cmake-build-debug/CMakeFiles/Complementing_a_Strand_of_DNA.dir
+C:/Users/Asus/ClionProjects/Roslaind/Complementing a Strand of DNA/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Asus/ClionProjects/Roslaind/Complementing a Strand of DNA/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/Asus/ClionProjects/Roslaind/DNA to RNA/cmake-build-debug/CMakeFiles/DNA_to_RNA.dir
+C:/Users/Asus/ClionProjects/Roslaind/DNA to RNA/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Asus/ClionProjects/Roslaind/DNA to RNA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
